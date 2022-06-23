@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ISmKwMTt2BCTHwquV8s2s0DvQpwBGi7JtlkwlIU2wwI=",
+  "Source": "AccountBalancer",
+  "BasePath": "_content/AccountBalancer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
